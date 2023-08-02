@@ -14,7 +14,7 @@ This is a Chat project developed in Java 18 using the JavaFX framework. The main
 - Included test video demonstrating the application's functionality.
 
 ## Video Demonstration
-Watch the application in action by clicking on the link below:
+Watch the application in action by clicking on the img below:
 
 [![Application Video](https://img.youtube.com/vi/-HmTxInlk-M/0.jpg)](https://youtu.be/-HmTxInlk-M)
 
